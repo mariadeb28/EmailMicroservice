@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 `email-service/README.md`
+## 📄 `email-service`
 
 ```markdown
 # ✉️ Email Service
